@@ -1,0 +1,7 @@
+Welcome to my college !
+// Above line 1 data has been written into the file named "Welcome.txt"
+// If you run this program on your computer then "welcome.txt" file will
+// be automatically created and in that file above line 1 text will be 
+// written.
+// However, if you run this program on online compilers, then "welcome.txt"
+// file will not be created.

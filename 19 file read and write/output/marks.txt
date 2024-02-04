@@ -1,0 +1,8 @@
+Name : Bishal Bhat
+Roll number : 9
+Marks in 5 subjects are:
+	 Physics : 79
+	 Chemistry : 67
+	 C++ : 68
+	 Math : 89
+	 English : 72
